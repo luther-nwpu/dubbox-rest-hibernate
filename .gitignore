@@ -1,0 +1,9 @@
+*
+!README.md
+!.gitignore
+!dubbo-hello-api/src/*
+!dubbo-hello-api/pom.xml
+!dubbo-hello-provider/src/*
+!dubbo-hello-provider/pom.xml
+!dubbo-hello-consumer/src/*
+!dubbo-hello-provider/pom.xml
