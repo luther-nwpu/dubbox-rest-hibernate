@@ -1,0 +1,4 @@
+<logger name="com.alibaba.dubbo.rpc.protocol.rest.support">
+    <level value="INFO"/>
+    <appender-ref ref="CONSOLE"/>
+</logger>
